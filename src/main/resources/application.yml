@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: SpringWeiXinLogin
+
+oauth:
+  wx:
+    appid:
+    appsecret:
+
+    callback:
+      http:
